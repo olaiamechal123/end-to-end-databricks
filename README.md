@@ -18,8 +18,8 @@ This dataset contains detailed energy consumption, emissions, and demographic da
 I created a dashboard to analyze the counties with the highest emissions using SQL queries run in a Databricks notebook
  
 
-- **[SQL Queries Notebook](https://dbc-83780a11-fc56.cloud.databricks.com/editor/notebooks/23810195983162?o=7474654336997173)**  
+- **[SQL Queries Notebook](https://github.com/olaiamechal123/end-to-end-databricks/blob/main/queries%20sql.ipynb)**  
   
-- **[Final Dashboard](https://dbc-83780a11-fc56.cloud.databricks.com/sql/dashboards/2142279858643399?o=7474654336997173)**  
+- **[Final Dashboard](https://github.com/olaiamechal123/end-to-end-databricks/blob/main/datashbords.PNG)**  
   
 
