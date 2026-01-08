@@ -11,7 +11,8 @@ This dataset contains detailed energy consumption, emissions, and demographic da
 
 **Tools**
  
- i work on this project in databricks is a unified analytics platform that enables organizations to process, analyze, and manage big data and AI workloads at scale in the cloud.
+Databricks is a unified analytics platform built on Apache Spark that allows organizations to process, analyze, and manage big data and AI workloads at scale in the cloud.
+
 
 **Works**
 
